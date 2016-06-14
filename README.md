@@ -2,6 +2,8 @@ A sample Nova project.
 
 ### About This Repo
 
+Note: this is the Readme for the sample project kickstarter. You can find the readme for the main Telescope repo [here](https://github.com/TelescopeJS/Telescope)
+
 This repo contains the started files for a sample [Nova](http://telescopeapp.org) project. Files included:
 
 - `.meteor`: Meteor's own directory. Do not edit its contents, apart from `packages` and `release`.
